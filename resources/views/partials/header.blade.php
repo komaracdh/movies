@@ -17,7 +17,7 @@
         <a id="logo" href="/">Movies</a>
         <ul class="nav">
             <li><a href="/movies">Movies</a></li>
-            <li><a href="/">Add Movie</a></li>
+            <li><a href="/movies/create">Add Movie</a></li>
             
         </ul>
     </div>

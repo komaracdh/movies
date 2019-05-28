@@ -19,7 +19,8 @@ class CreateMoviesTable extends Migration
             $table->text('genre');
             $table->text('director');
             $table->text('storyline');
-            $table->date('date');
+            $table->text('date');
+            $table->timestamps();
         });
     }
 

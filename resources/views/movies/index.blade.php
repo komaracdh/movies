@@ -34,8 +34,10 @@
                 </div>       
             </div>
         </div>
+        <a href="/movies/create" class="btn btn-primary" >Add Movie</a>
         @include('partials.footer')
     </body>
+    
 </html>
 
 
